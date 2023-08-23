@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @YeudaStern
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-YeudaStern/YeudaStern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Yehuda Stern and I am a full stack programmer.
+I am interested in everything related to the web world and artificial intelligence.
+I like to create things, and to deal with problems, I find the world of programming very challenging and satisfying.
